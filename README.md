@@ -1,9 +1,14 @@
-- [personal-website](https://my-site-seven-theta.vercel.app/)  
-- [developing...](https://slii.xyz/)  
-- [discord-community](https://discord.gg/CCwTrB2k6r)  
-- [line-community](https://line.me/ti/g2/qe5B4jkfc1Uf1IxhB1DsgSD6-ez5aSAlGEEpTg?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)  
-
-<div>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katayama8000&layout=compact&hide_title=true&langs_count=6&bg_color=22272E&text_color=909DAB&hide_border=true" align="left"/>
+<div align="center">
+  <p>
+  A cats lover who works with TypeScript and Rust.
+  </p>
+  <img
+    src="img/mouhu.png"
+    alt="mouhu"
+    width="400""
+  />
 </div>
-
+<div align="center">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-one-self.vercel.app/api?username=katayama8000&count_private=true&hide_border=true&include_all_commits=true&hide=contribs&theme=codeSTACKr" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-one-self.vercel.app/api/top-langs/?username=katayama8000&layout=compact&border_color=574666&hide_border=true&theme=codeSTACKr" />
+</div>
