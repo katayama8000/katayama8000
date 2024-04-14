@@ -5,7 +5,7 @@
   <img
     src="img/mouhu.png"
     alt="mouhu"
-    width="400""
+    width="400"
   />
 </div>
 <div align="center">
