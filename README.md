@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-  A cats lover who works with TypeScript and Rust.
+  A cat lover who work with TypeScript and Rust.
   </p>
   <img
     src="img/mouhu.png"
