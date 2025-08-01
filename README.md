@@ -7,7 +7,7 @@
     A cat lover who works with TypeScript and Rust.
   </p>
   <img
-    src="img/moufu.jpg"
+    src="img/moufu.png"
     alt="moufu"
     width="420"
   />
