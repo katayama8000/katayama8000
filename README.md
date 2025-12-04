@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>
-    A cat lover who works with TypeScript and Rust.
+    A cat lover who works with TypeScript and Scala.
   </p>
   <img
     src="img/moufu.png"
@@ -13,15 +13,19 @@
   />
 </div>
 
-<div align="center"> 
-  <img 
-    alt="Top Langs" 
-    height="150px" 
-    src="https://github-readme-stats.vercel.app/api?username=katayama8000&theme=codeSTACKr&layout=compact&border_color=574666" 
-  />
-  <img 
-    alt="GitHub stats" 
-    height="150px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=katayama8000&theme=codeSTACKr&layout=compact&border_color=574666" 
-  />
-</div>
+## Under maintenance
+- https://github.com/katayama8000/expo-push-notification-client-rust
+- https://github.com/katayama8000/expo-push-notification-api-rust
+- https://github.com/katayama8000/axum-ddd-rust
+- https://github.com/katayama8000/axum-cqrs-rust
+- https://github.com/katayama8000/scrapbox-cli
+- https://github.com/katayama8000/cosense-client-deno
+- https://github.com/katayama8000/honoka-app
+- https://github.com/katayama8000/backlog-ts
+- https://github.com/katayama8000/personal-website
+- https://github.com/katayama8000/discord-app-deno
+
+## Output
+- https://osaki-rs.connpass.com/event/330004/
+- https://supporterz-seminar.connpass.com/event/369851/
+- https://supporterz-seminar.connpass.com/event/377031/
