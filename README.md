@@ -15,7 +15,8 @@
 
 ## Under maintenance
 - https://github.com/katayama8000/expo-push-notification-client-rust
-- https://github.com/katayama8000/expo-push-notification-api-rust
+- https://github.com/katayama8000/expo-push-notification-api-rust-on-lambda
+- https://github.com/katayama8000/terraform-aws
 - https://github.com/katayama8000/axum-ddd-rust
 - https://github.com/katayama8000/axum-cqrs-rust
 - https://github.com/katayama8000/scrapbox-cli
