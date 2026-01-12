@@ -27,6 +27,7 @@
 - https://github.com/katayama8000/discord-app-deno
 
 ## Output
+- https://react-native-meetup.connpass.com/event/325014/
 - https://osaki-rs.connpass.com/event/330004/
 - https://supporterz-seminar.connpass.com/event/369851/
 - https://supporterz-seminar.connpass.com/event/377031/
