@@ -19,13 +19,13 @@
 - https://github.com/katayama8000/terraform-aws
 - https://github.com/katayama8000/axum-ddd-rust
 - https://github.com/katayama8000/axum-cqrs-rust
-- https://github.com/katayama8000/scrapbox-cli
+- https://github.com/katayama8000/scrapbox-manager
 - https://github.com/katayama8000/cosense-client-deno
 - https://github.com/katayama8000/honoka-app
 - https://github.com/katayama8000/backlog-issue-creator
 - https://github.com/katayama8000/backlog-ts
 - https://github.com/katayama8000/personal-website
-- https://github.com/katayama8000/discord-app-deno
+- https://github.com/nulab/backlog-mcp-server
 
 ## Output
 - https://react-native-meetup.connpass.com/event/325014/
