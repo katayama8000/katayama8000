@@ -14,19 +14,14 @@
 </div>
 
 ## Under maintenance
-- https://github.com/katayama8000/flat-note
+- https://github.com/katayama8000/tatami
 - https://github.com/katayama8000/expo-push-notification-client-rust
-- https://github.com/katayama8000/expo-push-notification-api-rust-on-lambda
-- https://github.com/katayama8000/terraform-aws
 - https://github.com/katayama8000/axum-ddd-rust
 - https://github.com/katayama8000/axum-cqrs-rust
 - https://github.com/katayama8000/scrapbox-manager
 - https://github.com/katayama8000/honoka-app
 - https://github.com/katayama8000/personal-website
 - https://github.com/nulab/backlog-mcp-server
-- https://github.com/katayama8000/backlog-ts
-- https://github.com/katayama8000/backlog-daily-document-creator
-- https://github.com/katayama8000/backlog-issue-creator
 
 
 ## Output
