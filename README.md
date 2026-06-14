@@ -29,3 +29,4 @@
 - https://osaki-rs.connpass.com/event/330004/
 - https://supporterz-seminar.connpass.com/event/369851/
 - https://supporterz-seminar.connpass.com/event/377031/
+- https://jbug.connpass.com/event/393988/
